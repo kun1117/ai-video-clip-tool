@@ -1,0 +1,17 @@
+{
+  "cuda": {
+    "speed": 4.28,
+    "count": 48,
+    "total_time": 33337.55
+  },
+  "mps": {
+    "speed": 22.0,
+    "count": 0,
+    "total_time": 0.0
+  },
+  "cpu": {
+    "speed": 1.49,
+    "count": 1,
+    "total_time": 5.45
+  }
+}
